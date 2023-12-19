@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=likole&theme=onedark&row=1&column=6&no-frame=true&no-bg=true">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likole&hide_title=true&layout=compact&langs_count=6&hide=javascript,html,css,coffeescript,scss" />
+  <!-- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likole&hide_title=true&layout=compact&langs_count=6&hide=javascript,html,css,coffeescript,scss" /> -->
 </div>
